@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/movies">
+        <file>50.mp4</file>
+    </qresource>
+</RCC>
